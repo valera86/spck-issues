@@ -1,9 +1,58 @@
 {
+  "learn-snake": {
+    "name": "Learn Snake",
+    "label": "Machine Learning",
+    "level": 3,
+    "date": 100,
+    "category": "Learning",
+    "templates": [
+      "assets/qtable-json.png",
+      "assets/qtable.png",
+      "assets/rel-pose.png",
+      "assets/update-q-value.png",
+      "game.js",
+      "index.html",
+      "LICENSE",
+      "q-learning.js",
+      "README.md",
+      "style.css",
+      "user-interface.js"
+    ]
+  },
+  "dwarfs": {
+    "name": "Dwarfs",
+    "label": "Incremental Game",
+    "level": 2,
+    "date": 100,
+    "category": "Game",
+    "templates": [
+      "index.html",
+      "javascript/actions.js",
+      "javascript/app.js",
+      "javascript/audio.js",
+      "javascript/canvas.js",
+      "javascript/cleartype.js",
+      "javascript/dwarfs.js",
+      "javascript/font.js",
+      "javascript/gold.js",
+      "javascript/mainloop.js",
+      "javascript/oborona.js",
+      "javascript/pages.js",
+      "javascript/reverbgen.js",
+      "javascript/setup.js",
+      "javascript/zones.js",
+      "LICENSE",
+      "README.md",
+      "stylesheets/app.css",
+      "stylesheets/fonts.css",
+      "stylesheets/fonts/orangekid.ttf"
+    ]
+  },
   "2048": {
     "name": "2048",
     "label": "Puzzle Game",
     "level": 2,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Game",
     "templates": [
       "index.html",
@@ -25,7 +74,7 @@
     "name": "Darkroom JS",
     "label": "Drawing Tool",
     "level": 2,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Tool",
     "templates": [
       "css/page.css",
@@ -40,7 +89,7 @@
     "name": "Fabric Brush",
     "label": "Drawing Tool",
     "level": 2,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Tool",
     "templates": [
       "index.html",
@@ -57,7 +106,7 @@
     "name": "Flappy Learning",
     "label": "Machine Learning",
     "level": 3,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Learning",
     "templates": [
       "game.js",
@@ -76,7 +125,7 @@
     "name": "Game of Life",
     "label": "Life Simulation",
     "level": 3,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Learning",
     "templates": [
       "index.js",
@@ -89,7 +138,7 @@
     "name": "Radius Raid",
     "label": "Shooter Game",
     "level": 2,
-    "date": "2019-11-27",
+    "date": "2020-11-27",
     "category": "Game",
     "templates": [
       "index.html",
@@ -119,7 +168,7 @@
     "name": "xx142-b2.exe",
     "label": "Puzzle Game",
     "level": 2,
-    "date": "2019-11-27",
+    "date": "2020-11-27",
     "category": "Game",
     "templates": [
       "css/styles.css",
@@ -149,7 +198,7 @@
     "name": "Semantic UI",
     "label": "UI Template",
     "level": 1,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Template",
     "templates": [
       "css/page.css",
@@ -164,7 +213,7 @@
     "name": "Material UI React",
     "label": "UI Template",
     "level": 2,
-    "date": "2019-04-14",
+    "date": 200,
     "category": "Template",
     "templates": [
       "App.jsx",
